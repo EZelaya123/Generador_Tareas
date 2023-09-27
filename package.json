@@ -2,9 +2,11 @@
   "name": "my_app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/EZelaya123/Generador_Tareas.git",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.2",

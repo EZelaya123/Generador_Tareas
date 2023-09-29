@@ -2,10 +2,10 @@
   "name": "my_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/EZelaya123/Generador_Tareas.git",
+  "homepage": "https://ezelaya123.github.io/Generador_Tareas/",
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
+    "build": "vue-cli-service build",    
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
